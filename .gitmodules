@@ -1,0 +1,68 @@
+[submodule "apriltag"]
+	path = apriltag
+	url = git@github.com:Hlwy/apriltag.git
+	branch = cv4_bridge/melodic
+[submodule "find_object_2d"]
+	path = find_object_2d
+	url = git@github.com:Hlwy/find_object_2d.git
+	branch = cv4_bridge/melodic
+[submodule "image_pipeline"]
+	path = image_pipeline
+	url = git@github.com:Hlwy/image_pipeline.git
+	branch = cv4_bridge/melodic
+[submodule "moveit_msgs"]
+	path = moveit_msgs
+	url = git@github.com:Hlwy/moveit_msgs.git
+	branch = cv4_bridge/melodic
+[submodule "object_recognition_msgs"]
+	path = object_recognition_msgs
+	url = git@github.com:Hlwy/object_recognition_msgs.git
+	branch = cv4_bridge/melodic
+[submodule "pcl_msgs"]
+	path = pcl_msgs
+	url = git@github.com:Hlwy/pcl_msgs.git
+	branch = cv4_bridge/melodic
+[submodule "ros_control"]
+	path = ros_control
+	url = git@github.com:Hlwy/ros_control.git
+	branch = cv4_bridge/melodic
+[submodule "rqt_image_view"]
+	path = rqt_image_view
+	url = git@github.com:Hlwy/rqt_image_view.git
+	branch = cv4_bridge/melodic
+[submodule "vision_opencv"]
+	path = vision_opencv
+	url = git@github.com:Hlwy/vision_opencv.git
+	branch = cv4_bridge/melodic
+[submodule "apriltag_ros"]
+	path = apriltag_ros
+	url = git@github.com:Hlwy/apriltag_ros.git
+	branch = cv4_bridge/melodic
+[submodule "gazebo_ros_pkgs"]
+	path = gazebo_ros_pkgs
+	url = git@github.com:Hlwy/gazebo_ros_pkgs.git
+	branch = cv4_bridge/melodic
+[submodule "image_transport_plugins"]
+	path = image_transport_plugins
+	url = git@github.com:Hlwy/image_transport_plugins.git
+	branch = cv4_bridge/melodic
+[submodule "navigation"]
+	path = navigation
+	url = git@github.com:Hlwy/navigation.git
+	branch = cv4_bridge/melodic
+[submodule "octomap_msgs"]
+	path = octomap_msgs
+	url = git@github.com:Hlwy/octomap_msgs.git
+	branch = cv4_bridge/melodic
+[submodule "perception_pcl"]
+	path = perception_pcl
+	url = git@github.com:Hlwy/perception_pcl.git
+	branch = cv4_bridge/melodic
+[submodule "rqt_common_plugins"]
+	path = rqt_common_plugins
+	url = git@github.com:Hlwy/rqt_common_plugins.git
+	branch = cv4_bridge/melodic
+[submodule "rqt_robot_plugins"]
+	path = rqt_robot_plugins
+	url = git@github.com:Hlwy/rqt_robot_plugins.git
+	branch = cv4_bridge/melodic
